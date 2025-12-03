@@ -2,4 +2,6 @@
 Try to be better
 
 ## Python 
-- [Read API Documentation](python/Roman%20to%20Integer/README.md)
+### Easy
+- [Roman to Integer](python/Roman%20to%20Integer/README.md)
+- [Longest Common Prefix](python/Longest%20Common%20Prefix/READMD.md)
